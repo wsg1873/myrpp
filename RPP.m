@@ -1,4 +1,5 @@
 % set up color map for display 
+%代码优化和解释
 cmap = [1 1 1; ...% 1 - white - clear cell  
 	0 0 0; ...%2 - black - obstacle  
 	1 0 0; 	...% 3 - red = visited  
